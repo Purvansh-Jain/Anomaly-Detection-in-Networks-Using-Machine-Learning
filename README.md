@@ -137,7 +137,7 @@ This file applies 7 machine learning algorithms to "all_data.csv" file 10 times 
 The last run time of this file was recorded as 18561 seconds.
 
 
-## Team Members
+## Contributors
 - Purvansh Jain
 - Kahraman Kostas 
 
