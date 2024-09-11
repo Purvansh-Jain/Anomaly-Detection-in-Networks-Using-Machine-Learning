@@ -1,4 +1,4 @@
-# Anomaly-Detection-in-Networks-Using-Machine-Learning
+# Anomaly Detection in Networks Using Machine Learning
 
 Python 3.6 was used to create the application files. Before running the files, it must be ensured that [Python 3.6](https://www.python.org/downloads/) and the following libraries are installed.
 
